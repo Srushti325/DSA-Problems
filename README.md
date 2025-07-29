@@ -27,8 +27,7 @@ These problems have been carefully selected based on patterns from interviews co
 ## What You'll Find
 
 -  **Java Code** with clean structure and comments
--  Categorized folders: `Easy`, `Medium`, `Hard`
--  Proper problem statements and logic explained as comments
+- Proper problem statements and logic explained as comments
 - Regular updates and new problem additions
 
 ---
